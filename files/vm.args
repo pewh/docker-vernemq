@@ -4,6 +4,7 @@
 -env ERL_FULLSWEEP_AFTER 0
 -env ERL_MAX_PORTS 65536
 +A 64
+-name pigeon@127.0.0.1
 +K true
 +W w
 -smp enable
